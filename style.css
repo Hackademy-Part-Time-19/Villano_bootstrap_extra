@@ -77,6 +77,13 @@ nav{
     justify-items: center;
     align-items: center;
 }
+#menu_nav1>a{
+    text-decoration: none;
+    font-size: 14px;
+    font-weight:400;
+    line-height: 20px;
+    color: #242424;
+}
 #menu_nav2{
     display: flex;
     justify-items: center;
